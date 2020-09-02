@@ -1,0 +1,17 @@
+{
+    "url": "https://qa.ocm.com/cart",
+    "cartIcon":{
+        "href": "href"    
+    },
+    "emptyCart":{
+        "title":"Your Cart",
+        "breadcrumbTitle":"Your Cart",
+        "emptyTitle":"Your cart is empty",
+        "continueBtnTitle":"CONTINUE SHOPPING",
+        "homeUrl":"https://qa.ocm.com/"        
+    }
+    
+    
+    
+    
+}

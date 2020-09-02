@@ -1,0 +1,265 @@
+{
+    "url" : "https://qa.ocm.com/",
+    "title" : "College Dorm Room Bedding, Bath & Decor | Bundles & Packages",
+    "promoTxt" : "Shop our College @Home Today",
+    "findSchoolTxt": "Find your school",
+    "schoolUrl": "https://www.ocm.com/school-partnerships",
+    "schoolTitle": "School Partnerships",
+    "ambassadorTxt": "Become a Student Ambassador",
+    "ambassadorTitle": "Welcome to the OCM Ambassador Program!",
+    "blogUrl": "https://blog.ocm.com",
+    "blogTxt": "Blog",
+    "heroTitle": "Use code:FLASH30",
+    "expectedValueTitle": "Value Paks",
+    
+    "footer":{
+        "trackOrderTitle": "TRACK ORDER",
+        "trackOrderUrl": "https://www.ocm.com/track-order",
+        "trackPgTitle": "Track Your Order",
+        "privacyTitleTxt": "PRIVACY POLICY",
+        "privPolivyUrl": "https://www.ocm.com/privacy-policy",
+        "priPolicyPgTitle": "Privacy Policy",
+        "termsCondTitle": "TERMS & CONDITIONS",
+        "termsCondUrl": "https://www.ocm.com/terms-and-conditions",
+        "termsPgTitle":"Terms And Conditions Ocm",
+        "ourGuaranteeTitle":"OUR GUARANTEE",
+        "ourGuaranteeUrl":"https://www.ocm.com/guaranteed",
+        "guaranteedPgTitle":"Guaranteed",
+        "aboutUsTitle":"ABOUT US",
+        "aboutUsUrl":"https://www.ocm.com/about-us",
+        "aboutUsPgTitle":"About Us",
+        "snackTitle":"SNACKS FOR HEROES",
+        "snackUrl":"https://www.ocm.com/heroes",
+        "snacksPgTitle":"Snacks For Heroes",  
+        "testimonialTitle":"TESTIMONIALS",
+        "testimonialUrl":"https://www.ocm.com/testimonials",
+        "testimonialsPgTitle":"Testimonials",
+        "schoolPartnershipTitle":"SCHOOL PARTNERSHIPS",
+        "schoolPartnershipUrl":"https://www.ocm.com/school-partnerships",
+        "schoolPartnershipPgTitle":"School Partnerships",
+        "schoolChecklistTitleTxt":"SCHOOL CHECKLIST",
+        "schoolChecklistUrlData":"https://www.ocm.com/school-checklist",
+        "schoolChecklistPgTitle":"School Checklist",
+        "becomePartnerTitleTxt":"BECOME A PARTNER",
+        "becomePartnerUrlData":"https://www.ocm.com/become-a-partner",
+        "becomePageTitle":"Become A Partner",
+        "studentAmbassadorTitle":"BECOME A STUDENT AMBASSADOR",
+        "studentAmbassadorUrlData":"https://www.ocm.com/ambassadors",
+        "studentAmbasadorPgTitle":"Welcome to the OCM Ambassador Program!"
+    },
+    
+    "login": {
+        "user": "clecona@ocm.com",
+        "pwd": "S@ltamont35",
+        "profileText":"Profile",
+        "logoutText":"Logout",
+        "userErrorMsgTxt":"Email required!",
+        "pwdErrorMsgTxt":"Password required!"
+    },
+    "subTitle": "Categories",
+    "menu": {
+        "bedding": {
+            "url": "https://qa.ocm.com/dorm-life/bedding",
+            "title": "Bedding",
+            "heroUrl": "https://res.cloudinary.com/ocm/image/upload/v1585931085/OCM%202.0/3%20-%20Category%20Heros/1%20-%20Bedding/Bedding.jpg",
+            "valuePaks": {
+                "url": "https://res.cloudinary.com/ocm/image/upload/v1586271447/OCM%202.0/4%20-%20Category%20Subslots/1%20-%20Bedding/Value_Pak-04.07-1.jpg",
+                "productName": "Value Paks"
+            },
+            "sheets": {
+                "url": "https://res.cloudinary.com/ocm/image/upload/v1586212241/OCM%202.0/4%20-%20Category%20Subslots/1%20-%20Bedding/Sheets-4.6.jpg",                
+                "productName": "Sheets"
+            },
+            "comforters": {
+                "url": "https://res.cloudinary.com/ocm/image/upload/v1586271447/OCM%202.0/4%20-%20Category%20Subslots/1%20-%20Bedding/Comforters-04.07-1.jpg",
+                "productName": "Comforters"
+            },
+            "matressPads":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1586212241/OCM%202.0/4%20-%20Category%20Subslots/1%20-%20Bedding/Mattress_Pads-4.6.jpg",
+                "productName": "Mattress Pads"
+            },
+            "pillows":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1586212241/OCM%202.0/4%20-%20Category%20Subslots/1%20-%20Bedding/Pillows-4.6.jpg",
+                "productName": "Pillows"
+            },
+            "blankets":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1586212241/OCM%202.0/4%20-%20Category%20Subslots/1%20-%20Bedding/Blankets_Throws-4.6.jpg",
+                "productName":"Blankets and Throws"
+            },
+            "headboards":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1586212785/OCM%202.0/4%20-%20Category%20Subslots/1%20-%20Bedding/Headboards-4.6.jpg",
+                "productName":"Headboards"
+            }
+             
+
+        },
+        
+        "bath": {
+            "url":"https://qa.ocm.com/dorm-life/bath",
+            "title":"Bath",
+            "heroUrl":"https://res.cloudinary.com/ocm/image/upload/v1586793788/OCM%202.0/3%20-%20Category%20Heros/2%20-%20Bath/Bath_4-4.13.jpg",
+            "titleRef":"Bath",
+            "towels":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1585931257/OCM%202.0/4%20-%20Category%20Subslots/2%20-%20Bath/Towels.jpg",
+                "productName":"Towels"
+            },
+            "ShowerPaks":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1585931256/OCM%202.0/4%20-%20Category%20Subslots/2%20-%20Bath/Shower_Paks.jpg",
+                "productName":"Shower Paks"
+            },
+            "bathMats":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1585931257/OCM%202.0/4%20-%20Category%20Subslots/2%20-%20Bath/Bath_Mats.jpg",
+                "productName":"Bath Mats"
+            },
+            "laundry":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1585931256/OCM%202.0/4%20-%20Category%20Subslots/2%20-%20Bath/Laundry.jpg",
+                "productName":"Laundry"
+            }
+                               
+                    
+
+        },
+    
+        "decor": {
+            "url":"https://qa.ocm.com/dorm-life/decor",
+            "title":"Decor",
+            "heroUrl":"https://res.cloudinary.com/ocm/image/upload/v1585931124/OCM%202.0/3%20-%20Category%20Heros/3%20-%20Decor/Decor.jpg",
+            "titleRef":"Decor",
+            "rugs":{
+                "url": "https://res.cloudinary.com/ocm/image/upload/v1585694220/spa/category/Rugs_OCM2020.jpg",
+                "productName":"Rugs"
+            },
+            "storage":{
+                "url": "https://res.cloudinary.com/ocm/image/upload/v1586212825/OCM%202.0/4%20-%20Category%20Subslots/3%20-%20Decor/Storage_Trunks-4.6.jpg",
+                "productName": "Storage Trunks"                
+            },
+            "organization":{
+                "url": "https://res.cloudinary.com/ocm/image/upload/v1585694543/spa/category/Organization.jpg",
+                "productName":"Organization"
+            },
+            "housewares":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1585694629/spa/category/Housewares_OCM2020.jpg",
+                "productName":"Housewares"                
+            },
+            "lighting":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1585931274/OCM%202.0/4%20-%20Category%20Subslots/3%20-%20Decor/Lighting.jpg",
+                "productName":"Lighting"
+            },
+            "frames":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1585695334/spa/category/Frames.jpg",
+                "productName":"Frames"
+            },
+            "mirrors":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1585695368/spa/category/Mirrors.jpg",
+                "productName":"Mirrors"
+            },
+            "wallart":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1585931273/OCM%202.0/4%20-%20Category%20Subslots/3%20-%20Decor/Wall_Art.jpg",
+                "productName":"Wall Art"                
+            }
+        },
+            
+        "apartments":{
+            "url":"https://qa.ocm.com/dorm-life/apartments",
+            "title":"Apartments",
+            "heroUrl":"https://res.cloudinary.com/ocm/image/upload/v1592838307/OCM%202.0/Apartment%20Page/Apartment-Hero.jpg",
+            "titleRef":"Apartments",
+            "bedroom":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1592838320/OCM%202.0/Apartment%20Page/Bedroom.jpg",
+                "productName":"Bedroom"        
+            },
+            "bathroom":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1592838320/OCM%202.0/Apartment%20Page/Bathroom.jpg",
+                "productName": "Bathroom"
+            },
+            "decor":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1592838320/OCM%202.0/Apartment%20Page/Decor.jpg",
+                "productName":"Decor"
+            },
+            "rugs":{
+                "url": "https://res.cloudinary.com/ocm/image/upload/v1592838320/OCM%202.0/Apartment%20Page/Rugs.jpg",
+                "productName":"Rugs"
+            },
+            "kitchen":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1592838320/OCM%202.0/Apartment%20Page/Kitchen.jpg",
+                "productName":"Kitchen"
+            }
+        },
+        
+        "wellness" :{
+
+    
+        },
+
+        "carePackage": {
+            "url":"https://qa.ocm.com/gifts-and-care-packages/gifts-and-care-packages",
+            "title":"Gifts and Care Packages",
+            "heroUrl":"https://res.cloudinary.com/ocm/image/upload/v1595872892/OCM%202.0/CWP%20Assets%20072420/CWP-Category-Hero-full-Width.jpg",
+            "titleRef":"Gifts and Care Packages",
+            "carePkgPlan":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1595632852/OCM%202.0/CWP%20Assets%20072420/Year_Full_of_Love-072420.jpg",
+                "productName":"Care Package Plans"
+            },
+            "health":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1595632852/OCM%202.0/CWP%20Assets%20072420/Healthy-Package-072420.jpg",
+                "productName":"Healthy"
+            },
+            "birthday":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1595632980/OCM%202.0/CWP%20Assets%20072420/Birthday-072420.jpg",
+                "productName":"Birthday"
+            },
+            "gourmet":{
+                "url": "https://res.cloudinary.com/ocm/image/upload/v1595632852/OCM%202.0/CWP%20Assets%20072420/Gourmet-072420.jpg",
+                "productName":"Gourmet"
+            }
+        },
+        
+        "graduation":{
+            "url":"https://qa.ocm.com/graduation/graduation",
+            "title":"Graduation",
+            "heroUrl":"https://res.cloudinary.com/ocm/image/upload/v1586211342/OCM%202.0/3%20-%20Category%20Heros/8%20-%20Graduation/Graduation-4.6.jpg",
+            "titleRef":"Graduation",
+            "diploma":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1586219188/OCM%202.0/4%20-%20Category%20Subslots/8%20-%20Graduation/Standard_Diploma_Frames-04.06.jpg",
+                "productName":"Diploma Frames"
+            },
+            "gift":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1586219511/OCM%202.0/4%20-%20Category%20Subslots/8%20-%20Graduation/Commemorative_Gifts-04.06.jpg",
+                "productName":"Commemorative Gifts"
+            },
+            "tassel":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1586219188/OCM%202.0/4%20-%20Category%20Subslots/8%20-%20Graduation/Tassel_Toppers-04.06.jpg",
+                "productName":"Tassel Toppers"                
+            }
+
+        },
+        "onSale": {
+            "url":"https://qa.ocm.com/sale/on-sale",
+            "title":"On Sale",
+            "heroUrl":"https://res.cloudinary.com/ocm/image/upload/v1585931217/OCM%202.0/3%20-%20Category%20Heros/9%20-%20On%20Sale/On_Sale.jpg",
+            "titleRef":"On Sale",
+            "beddingOnSale":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1585931373/OCM%202.0/4%20-%20Category%20Subslots/9%20-%20On%20Sale/Bedding_.jpg",
+                "productName":"Bedding"                         
+            },
+            "bathOnSale":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1585931372/OCM%202.0/4%20-%20Category%20Subslots/9%20-%20On%20Sale/Bath.jpg",
+                "productName":"Bath"
+            },
+            "decorOnSale":{
+                "url":"https://res.cloudinary.com/ocm/image/upload/v1585931372/OCM%202.0/4%20-%20Category%20Subslots/9%20-%20On%20Sale/Decor.jpg",
+                "productName":"Decor"
+            
+            }
+
+
+            
+        }
+
+
+            
+
+
+        
+    }
+}

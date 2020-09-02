@@ -1,0 +1,227 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1597094879280' stop='1597094934197'>
+    <name>OCM QA page</name>
+    <title>OCM QA page</title>
+    <test-cases>
+        <test-case start='1597094879281' status='passed' stop='1597094888794'>
+            <name>Load Browser and close PopUp</name>
+            <title>Load Browser and close PopUp</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597094888795' status='passed' stop='1597094889931'>
+            <name>Verify Track Order link</name>
+            <title>Verify Track Order link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597094889932' status='passed' stop='1597094891174'>
+            <name>Verify Privacy Policy link</name>
+            <title>Verify Privacy Policy link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597094891174' status='passed' stop='1597094891424'>
+            <name>Verify Terms and Conditions link</name>
+            <title>Verify Terms and Conditions link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597094891424' status='failed' stop='1597094901658'>
+            <name>Verify Our Guarantee link</name>
+            <title>Verify Our Guarantee link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Expect $(`//*[@id='__next']/div/main/div[2]/div[1]/h1`) to have text
+                
+                Expected: "Guaranteed"
+                Received: undefined</message>
+                <stack-trace>Error: Expect $(`//*[@id='__next']/div/main/div[2]/div[1]/h1`) to have text
+                
+                Expected: "Guaranteed"
+                Received: undefined
+                    at Context.&lt;anonymous> (C:\Tools\WebDriverIOFramework\test\specs\footer.js:44:30)
+                    at Context.executeSync (C:\Tools\WebDriverIOFramework\node_modules\@wdio\sync\build\index.js:56:18)
+                    at C:\Tools\WebDriverIOFramework\node_modules\@wdio\sync\build\index.js:82:70</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1597094901658' status='passed' stop='1597094901933'>
+            <name>Verify About Us link</name>
+            <title>Verify About Us link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597094901933' status='passed' stop='1597094902209'>
+            <name>Verify Snacks for Heroes link</name>
+            <title>Verify Snacks for Heroes link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597094902209' status='failed' stop='1597094912483'>
+            <name>Verify Testimonials link</name>
+            <title>Verify Testimonials link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Expect $(`//*[@id='__next']/div/main/div[2]/div[1]/h1`) to have text
+                
+                Expected: "Testimonials"
+                Received: undefined</message>
+                <stack-trace>Error: Expect $(`//*[@id='__next']/div/main/div[2]/div[1]/h1`) to have text
+                
+                Expected: "Testimonials"
+                Received: undefined
+                    at Context.&lt;anonymous> (C:\Tools\WebDriverIOFramework\test\specs\footer.js:71:30)
+                    at Context.executeSync (C:\Tools\WebDriverIOFramework\node_modules\@wdio\sync\build\index.js:56:18)
+                    at C:\Tools\WebDriverIOFramework\node_modules\@wdio\sync\build\index.js:82:70</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1597094912484' status='passed' stop='1597094912887'>
+            <name>Verify School Partnership link</name>
+            <title>Verify School Partnership link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1597094912888' status='failed' stop='1597094923207'>
+            <name>Verify School Checklist link</name>
+            <title>Verify School Checklist link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Expect $(`//*[@id='__next']/div/main/div[2]/div[1]/h1`) to have text
+                
+                Expected: "School Checklist"
+                Received: undefined</message>
+                <stack-trace>Error: Expect $(`//*[@id='__next']/div/main/div[2]/div[1]/h1`) to have text
+                
+                Expected: "School Checklist"
+                Received: undefined
+                    at Context.&lt;anonymous> (C:\Tools\WebDriverIOFramework\test\specs\footer.js:89:30)
+                    at Context.executeSync (C:\Tools\WebDriverIOFramework\node_modules\@wdio\sync\build\index.js:56:18)
+                    at C:\Tools\WebDriverIOFramework\node_modules\@wdio\sync\build\index.js:82:70</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1597094923207' status='failed' stop='1597094933443'>
+            <name>Verify Become a Partner link</name>
+            <title>Verify Become a Partner link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Expect $(`//*[@id='__next']/div/main/div[2]/div[1]/h1`) to have text
+                
+                Expected: "Become A Partner"
+                Received: undefined</message>
+                <stack-trace>Error: Expect $(`//*[@id='__next']/div/main/div[2]/div[1]/h1`) to have text
+                
+                Expected: "Become A Partner"
+                Received: undefined
+                    at Context.&lt;anonymous> (C:\Tools\WebDriverIOFramework\test\specs\footer.js:98:30)
+                    at Context.executeSync (C:\Tools\WebDriverIOFramework\node_modules\@wdio\sync\build\index.js:56:18)
+                    at C:\Tools\WebDriverIOFramework\node_modules\@wdio\sync\build\index.js:82:70</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1597094933444' status='passed' stop='1597094934195'>
+            <name>Verify Become a Partner link</name>
+            <title>Verify Become a Partner link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
